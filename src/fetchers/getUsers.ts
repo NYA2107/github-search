@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { SEARCH_USERS_URL } from "../constants/url";
 import api from "../helpers/api";
-import type { UserDataType } from "../types";
+import type { ErrorApiType, UserDataType } from "../types";
 
 const getUsers = (params?: any) => {
   return new Promise<{ data: UserDataType[]; total: number }>(
@@ -13,8 +13,8 @@ const getUsers = (params?: any) => {
             resolve({ data: resp.data.items, total: resp.data.total_count });
           }
         )
-        .catch((err: any) => {
-          reject(err);
+        .catch((err: ErrorApiType) => {
+          reject(err.response.data.message);
         });
     }
   );

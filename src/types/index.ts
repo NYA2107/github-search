@@ -129,11 +129,24 @@ export interface RepoDataType {
   default_branch: string;
 }
 
+export interface RepoType {
+  title: string;
+  desription: string;
+  star: number;
+}
+
 export interface RepoViewType {
   id: string;
-  repo: {
-    title: string;
-    desription: string;
-    star: number;
-  }[];
+  repo: RepoType[];
+}
+
+export interface ErrorApiType {
+  response: {
+    data: {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      errors: any[];
+      message: string;
+      status: string;
+    };
+  };
 }

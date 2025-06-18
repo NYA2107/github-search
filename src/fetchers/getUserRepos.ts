@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { REPOSITORIES_URL, USERS_URL } from "../constants/url";
 import api from "../helpers/api";
-import type { RepoDataType } from "../types";
+import type { ErrorApiType, RepoDataType } from "../types";
 
 const getUserRepos = (id: string, params?: any) => {
   return new Promise<{ data: RepoDataType[] }>((resolve, reject) => {
@@ -10,8 +10,8 @@ const getUserRepos = (id: string, params?: any) => {
       .then((resp: { data: RepoDataType[] }) => {
         resolve({ data: resp.data });
       })
-      .catch((err: any) => {
-        reject(err);
+      .catch((err: ErrorApiType) => {
+        reject(err.response.data.message);
       });
   });
 };
