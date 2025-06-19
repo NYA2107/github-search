@@ -1,7 +1,7 @@
 
 # Github User and Repository Searcher
 
-A brief description of what this project does and who it's for
+Github user and repository search, as an assignment for Front End Developer recruitment
 
 
 ## Features
