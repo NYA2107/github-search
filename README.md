@@ -12,8 +12,8 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-Insert gif or link to demo
-![gambar](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZseGFvM24zdXVzM25yM3F5a2l0NGliYjVteGxpbzdvdDNsaGw3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oC0OTMfHN3wkRKHJk0/giphy.gif)
+### Github User Search (Include Submit On Enter Key)
+![user_search](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhyeHJ0NWhhMXk4dmlsMnBlMmxoenkyMDV6MG91dDZ3amR3ZndtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O1Sp5iEnTHDNKY1qkU/giphy.gif)
 
 
 ## Installation
