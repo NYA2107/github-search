@@ -14,7 +14,7 @@ A brief description of what this project does and who it's for
 
 ### Github User Search (Include Search On Enter Key)
 ![user_search](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhyeHJ0NWhhMXk4dmlsMnBlMmxoenkyMDV6MG91dDZ3amR3ZndtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O1Sp5iEnTHDNKY1qkU/giphy.gif)
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhyeHJ0NWhhMXk4dmlsMnBlMmxoenkyMDV6MG91dDZ3amR3ZndtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O1Sp5iEnTHDNKY1qkU/giphy.gif" width=400>
 ### User Repository List
 ![repo_search](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc4ZG40eGUxZjF2YjAzdXMxc29pdnRsOWp1N3g1cTljdDJyYXByNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2hxdB9OOzPimjsg7f/giphy.gif)
 
