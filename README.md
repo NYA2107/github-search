@@ -46,7 +46,10 @@ Run in development server
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`VITE_API_URL`
+
+| Variables | Descritpion|
+| :-------- | :------- |
+| `VITE_API_URL` | Github API URL |
 
 
 ## Used API Reference
