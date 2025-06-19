@@ -13,7 +13,7 @@ A brief description of what this project does and who it's for
 ## Demo
 
 Insert gif or link to demo
-![gambar](https://d2aact24gtejsg.cloudfront.net/d0b4um%2Fpreview%2F68250107%2Fmain_full.gif)
+![gambar](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZseGFvM24zdXVzM25yM3F5a2l0NGliYjVteGxpbzdvdDNsaGw3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oC0OTMfHN3wkRKHJk0/giphy.gif)
 
 
 ## Installation
