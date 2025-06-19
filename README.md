@@ -25,7 +25,7 @@ A brief description of what this project does and who it's for
 
 - Get list user's repositories
 - Sort by pushed date
-- On open accordion fetch (memoize fetched value)
+- Only fetch when opening accordion and memoize the data after fetch
 
 
 ## Installation
